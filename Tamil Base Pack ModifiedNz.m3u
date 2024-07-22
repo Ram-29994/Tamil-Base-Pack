@@ -46,7 +46,7 @@ https://jio.drmlive.au/jio/bpk-tv/Raj_Digital_Plus_MOB/Fallback/index.m3u8
 http://ott1.co:8080/live/08042023/123456789/28141.ts
 #EXTINF:0,Mega Tv SD
 #EXTGRP:Tamil Pack
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd?headers=eyJYLUZvcndhcmRlZC1Gb3I
+https://jio.drmlive.au/jio/bpk-tv/Mega_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,Makkal Tv
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Makkal_TV_MOB/Fallback/index.m3u8
@@ -107,9 +107,9 @@ http://extraott.com:80/4183813400/7514985385/187251
 #EXTINF:0,Chutti Tv
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Chutti_TV_MOB/Fallback/index.m3u8
-#EXTINF:0,Pogo Tv
+#EXTINF:0,Sonic Tamil
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Pogo_Tamil_MOB/Fallback/index.m3u8
+https://jio.drmlive.au/jio/bpk-tv/sonic_Tamil_MOB/Fallback/index.m3u8
 #EXTINF:0,CN HD plus
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/CN_HD_Tamil_MOB/Fallback/index.m3u8
@@ -130,4 +130,4 @@ https://jio.drmlive.au/jio/bpk-tv/Sri_Sankara_MOB/Fallback/index.m3u8
 https://jio.drmlive.au/jio/bpk-tv/Sadhguru_Television_SD_MOB/Fallback/index.m3u8
 #EXTINF:0,Aastha Tamil
 #EXTGRP:Tamil Pack
-https://play.drmlive.au/jiotv/play.php?id=1255
+https://jio.drmlive.au/jio/bpk-tv/Aastha_Tamil_MOB/Fallback/index.m3u8
