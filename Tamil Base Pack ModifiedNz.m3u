@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:0,SUN TV HD
+#EXTGRP:Tamil Pack
+http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
+#EXTINF:0,ZEE TAMIL HD
+#EXTGRP:Tamil Pack
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:0,JAYA TV HD
+#EXTGRP:Tamil Pack
+http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
+#EXTINF:0,JAYA MOVIES HD
+#EXTGRP:Tamil Pack
+http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
+#EXTINF:0,JAYA MOVIES 2
+#EXTGRP:Tamil Pack
+http://xtv.ooo:8080/359052742/470428329/244574
+#EXTINF:0,DD Tamil
+#EXTGRP:Tamil Pack
+http://xtv.ooo:8080/359052742/470428329/244522
+#EXTINF:0,Polimer Tv
+#EXTGRP:Tamil Pack
+http://xtv.ooo:8080/359052742/470428329/244564
+#EXTINF:0,Kalaignar Sirippoli
+#EXTGRP:Tamil Pack
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:0,Adhitya
+#EXTGRP:Tamil Pack
+http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
+#EXTINF:0,Raj Tv
+#EXTGRP:Tamil Pack
+http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
+#EXTINF:0,Mega Tv
+#EXTGRP:Tamil Pack
+http://ott1.co:8080/live/08042023/123456789/28141.ts
+#EXTINF:0,SUN LIFE HD
+#EXTGRP:Tamil Pack
+http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
+#EXTINF:0,Polimer news
+#EXTGRP:Tamil Pack
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
+#EXTINF:0,Jaya Plus
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+#EXTINF:0,News J
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+#EXTINF:0,M Nadu
+#EXTGRP:Tamil Pack
+https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
+#EXTINF:0,Malaimurasu
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+#EXTINF:0,Puthiya thalaimurai
+#EXTGRP:Tamil Pack
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
+#EXTINF:0,Thanthi
+#EXTGRP:Tamil Pack
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/thanthi_nim_https/110322/thanthi/playlist.m3u8
+#EXTINF:0,Raj News
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+#EXTINF:0,Chanakya Tv
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+#EXTINF:0,Zee news
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:0,SONY BBC EARTH FHD
+#EXTGRP:Tamil Pack
+http://extraott.com:80/4183813400/7514985385/187251
