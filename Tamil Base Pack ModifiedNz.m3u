@@ -5,15 +5,15 @@ http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
 #EXTINF:0,ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:0,KTV HD
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/KTV_HD_MOB/Fallback/index.m3u8
 #EXTINF:0,JAYA TV HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 #EXTINF:0,JAYA MOVIES HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
-#EXTINF:0,JAYA MOVIES 2
-#EXTGRP:Tamil Pack
-http://xtv.ooo:8080/359052742/470428329/244574
 #EXTINF:0,DD Tamil
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/DD5_Podhigai_MOB/Fallback/index.m3u8
@@ -25,49 +25,109 @@ https://jio.drmlive.au/jio/bpk-tv/Polimer_TV_MOB/Fallback/index.m3u8
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:0,Adhitya
 #EXTGRP:Tamil Pack
-http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
+https://jio.drmlive.au/jio/bpk-tv/Adithya_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,Vasanth Tv
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Vasanth_TV_MOB/Fallback/index.m3u8
+#EXTINF:0,Puthuyugam
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Puthu_Yugam_MOB/Fallback/index.m3u8
+#EXTINF:0,Vendhar Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Vendhar_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,Raj Tv
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
+#EXTINF:0,Raj Digital Plus
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Raj_Digital_Plus_MOB/Fallback/index.m3u8
 #EXTINF:0,Mega Tv
 #EXTGRP:Tamil Pack
 http://ott1.co:8080/live/08042023/123456789/28141.ts
+#EXTINF:0,Mega Tv SD
+#EXTGRP:Tamil Pack
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd?headers=eyJYLUZvcndhcmRlZC1Gb3I
+#EXTINF:0,Makkal Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Makkal_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,SUN LIFE HD
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Sun_Life_MOB/Fallback/index.m3u8
 #EXTINF:0,Polimer news
 #EXTGRP:Tamil Pack
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Polimer_News_MOB/Fallback/index.m3u8
 #EXTINF:0,Jaya Plus
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Jaya_Plus_MOB/Fallback/index.m3u8
 #EXTINF:0,News J
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+https://jio.drmlive.au/jio/bpk-tv/News_J_MOB/Fallback/index.m3u8
 #EXTINF:0,M Nadu
 #EXTGRP:Tamil Pack
-https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
+https://jio.drmlive.au/jio/bpk-tv/M_Nadu_MOB/Fallback/index.m3u8
 #EXTINF:0,Malaimurasu
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Malai_Murasu_MOB/Fallback/index.m3u8
 #EXTINF:0,Puthiya thalaimurai
 #EXTGRP:Tamil Pack
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Puthiya_Thalimurai_MOB/Fallback/index.m3u8
 #EXTINF:0,Thanthi
 #EXTGRP:Tamil Pack
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/thanthi_nim_https/110322/thanthi/playlist.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Thanthi_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,Raj News
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Raj_News_24x7_MOB/Fallback/index.m3u8
 #EXTINF:0,Chanakya Tv
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 #EXTINF:0,Zee news
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:0,News18 Tamil
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/News_18_Tamilnadu_MOB/Fallback/index.m3u8
+#EXTINF:0,News7
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/News7_Tamil_MOB/Fallback/index.m3u8
+#EXTINF:0,DD News
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/DD_News_MOB/Fallback/index.m3u8
+#EXTINF:0,Sansad HD
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/DD_Rajyasabha_MOB/Fallback/index.m3u8
+#EXTINF:0,Republic
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Republic_TV_MOB/Fallback/index.m3u8
+#EXTINF:0,RT
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/RT_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
 http://extraott.com:80/4183813400/7514985385/187251
+#EXTINF:0,Chutti Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Chutti_TV_MOB/Fallback/index.m3u8
+#EXTINF:0,Pogo Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Pogo_Tamil_MOB/Fallback/index.m3u8
+#EXTINF:0,CN HD plus
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/CN_HD_Tamil_MOB/Fallback/index.m3u8
+#EXTINF:0,Jothi Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Jothi_TV_MOB/Fallback/index.m3u8
+#EXTINF:0,SVBC Tamil
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/SVBC2_MOB/Fallback/index.m3u8
+#EXTINF:0,Sai Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/SaiTV_MOB/Fallback/index.m3u8
+#EXTINF:0,Sri Sankara
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Sri_Sankara_MOB/Fallback/index.m3u8
+#EXTINF:0,Sadhguru Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Sadhguru_Television_SD_MOB/Fallback/index.m3u8
+#EXTINF:0,Aastha Tamil
+#EXTGRP:Tamil Pack
+https://play.drmlive.au/jiotv/play.php?id=1255
