@@ -16,16 +16,19 @@ http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
 http://xtv.ooo:8080/359052742/470428329/244574
 #EXTINF:0,DD Tamil
 #EXTGRP:Tamil Pack
-http://xtv.ooo:8080/359052742/470428329/244522
+https://jio.drmlive.au/jio/bpk-tv/DD5_Podhigai_MOB/Fallback/index.m3u8
 #EXTINF:0,Polimer Tv
 #EXTGRP:Tamil Pack
-http://xtv.ooo:8080/359052742/470428329/244564
+https://jio.drmlive.au/jio/bpk-tv/Polimer_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,Kalaignar Sirippoli
 #EXTGRP:Tamil Pack
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:0,Adhitya
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
+#EXTINF:0,Vasanth Tv
+#EXTGRP:Tamil Pack
+https://jio.drmlive.au/jio/bpk-tv/Vasanth_TV_MOB/Fallback/index.m3u8
 #EXTINF:0,Raj Tv
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
@@ -34,13 +37,13 @@ http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
 http://ott1.co:8080/live/08042023/123456789/28141.ts
 #EXTINF:0,SUN LIFE HD
 #EXTGRP:Tamil Pack
-http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Sun_Life_MOB/Fallback/index.m3u8
 #EXTINF:0,Polimer news
 #EXTGRP:Tamil Pack
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 #EXTINF:0,Jaya Plus
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+https://jio.drmlive.au/jio/bpk-tv/Jaya_Plus_MOB/Fallback/index.m3u8
 #EXTINF:0,News J
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
