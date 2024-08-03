@@ -56,51 +56,57 @@ https://jio.drmlive.au/jio/bpk-tv/Sun_Life_MOB/Fallback/index.m3u8
 #EXTINF:0,Polimer news
 #EXTGRP:Tamil Pack
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722697452/ei/jPKtZtf7Eov34-EPgamy2AY/ip/120.56.1.177/id/yhZXTuTFXx0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bARyD8ekB3TKb5vCMSvGS5x1JfjMqQxqQGa6_I6ufBsfWhpGQzH3vyQAForw8bnlvTrNyU0s0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKImYqs5Hz-A7anfSrpIClkXFcQ1u83LMkFS0h8EGQgNAiAI1QYjjhlOP5R-dyTJZdCVa5uI39Rkki1_1UWLkh3dSw%3D%3D/file/index.m3u8
+#EXTINF:0,Janam Tamil
+#EXTGRP:Tamil Pack
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722698628/ei/JPetZrTkBoSCjuMPmtCTqA0/ip/120.56.1.177/id/xjiP6cLotFo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAVArvC4UNbpDWlNErmk_Ee5gyqODHH1OjqpPlRxSY2f3m8aXQFvbZoUTylw8EbaJQpauljww/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMeW-dr3dhmzxdXoYiacRdFNMOa_dn6qRILOD4med4q-AiEAoj2kNkQ-JY8gs6L6sFWpXSPYn6gh_tEstDEAKfr6U8M%3D/file/index.m3u8
 #EXTINF:0,Jaya Plus
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Jaya_Plus_MOB/Fallback/index.m3u8
+https://ythls-v3.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:0,News J
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/News_J_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722699937/ei/QfytZohX-7LctQ_q5c-wAw/ip/120.56.1.177/id/jdtQ0Ij0o68.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAaTUZhBWRDqLDWox903KLotRa6c08ox2P86XlJO0A36wpenVBbkBUQfG3WR8ZwK01TZ2leID/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBUM4SoiKcmLQXsS5LEuZZ0iejBqSQkQGixDTjwmPnhwCIQCOJQ88LX0C6IbHppnKOB_RM4aw89KB_pTz6YjY6fb3Rw%3D%3D/file/index.m3u8
 #EXTINF:0,M Nadu
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/M_Nadu_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722700135/ei/B_2tZouqLPGEjuMP94WbiQ0/ip/120.56.1.177/id/7jOhQEZdNtM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAX9mcBks3Q-uE_CTLRyXUmo40_ARr_Xxltn3Pqz39Zz1W6VP6LqiKHoPwSyScgewic9A4TQO/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgO43UNjP-SB15enYoyCkQj1Syvr4R0VdgUZqaUyz9pp4CIQDqq__7AUqhQmWl54-YfIIXF6sV-A1HvXSJDRL2-iWoiw%3D%3D/file/index.m3u8
 #EXTINF:0,Malaimurasu
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Malai_Murasu_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722699681/ei/QfutZpGBM5C0z7sP3o-Q8Qc/ip/120.56.1.177/id/SDACb4NSqNw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAYNRF2uMhmAINEk0Jmk32vBoTYUP2uhOlAZzvy9oGdF7par0WbkdAGm6ytq38zJb0QfyASDa/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgB5pm2QD16MPtr8olnLhgX-TMr1l2aPtiP-3I-NZ5ep4CIAOm9Aa-M816q2b1Zz4FLG51orAVDAKODNDSS1nrtBMb/file/index.m3u8
 #EXTINF:0,Puthiya thalaimurai
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Puthiya_Thalimurai_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722698392/ei/OPatZt2nM5K8z7sPz5us4AE/ip/120.56.1.177/id/RUzgphgBRzI.485/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAd1tMqE3_zBETyQzzIvZFQ2W83f-MoeyClx1WnAt6aGBp9tTyYxusQZgoxJ_tQd1zpFax4bG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIFHv42aDEVXfFMCG8evNleob8QkcWGke0hT4iKj9Ca8AiBAMWStKSA7Mgmj67seltQl11icTBrSKn5jdw9ZUeTUNA%3D%3D/file/index.m3u8
 #EXTINF:0,Thanthi
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Thanthi_TV_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722698510/ei/rfatZvGBPfuz3LUP7dfv0Ak/ip/120.56.1.177/id/j1nzTy5q_1Y.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAbdzWDylJBkrnK_hiPwtBqcktBi9Ik6m3Uq1_RtFcIlLDUqzaPvqXtTyB3zQsxhVlr2Mv1ZT/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAbJLfi44talfVofRNArWxiZT2OhOEIqxos2N1l7x5J0CIGgL5KKwGimi1yF3hV2a6ZeAXTKXmRPgB5pK-nTGpT1-/file/index.m3u8
 #EXTINF:0,Raj News
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Raj_News_24x7_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722700276/ei/lP2tZqizIrOZvcAPm76nmAU/ip/120.56.1.177/id/F4UlryJOIJ0.1~45637923/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAaUGwZniWBbPpgAxwjbpT6ZeA5iGiOqonE57q8YQW6m2LTs8I85r884xCwgV87kw9Vwr-2gX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIbPiJ7Z3INtvIIBTyXjBCp17MrzbUntTOpXHhMTW-bQAiB51gvUYzH2GKWVIUjnI1vA0PVQQIfYU0EXunB2IC6OFA%3D%3D/file/index.m3u8
 #EXTINF:0,Chanakya Tv
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+https://ythls-v3.onrender.com/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+#EXTINF:0,Maridhas Answers
+#EXTGRP:Tamil Pack
+https://ythls-v3.onrender.com/channel/UCXLLR75V5oZhg8K2o2-55Lw.m3u8
 #EXTINF:0,Zee news
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722698993/ei/kfitZuCiNt6i9fwPxv-5kAE/ip/120.56.1.177/id/f4LenpMrsVw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bATNcEjd0wvuusDasTi2mE0FpCiGqE2gvXfsVU2sP3fT1CaB9VGM__9VVjvCIQ4BSJ3_-mzSH/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWvLFDHZi0XuUWB45YsV2OYnQmscAXLNquW17CPCbUSgCIQCxeWAAcx-2L2yCBK_r6qvKS5ykXsQAuUHt1qi5EshA_w%3D%3D/file/index.m3u8
 #EXTINF:0,News18 Tamil
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/News_18_Tamilnadu_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722698815/ei/3_etZt_hBrP7g8UPg-yamA0/ip/120.56.1.177/id/lnHtG9YLqo4.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAZ-VoIaWTN4cy4lnlE1tPuyKDJfYEg60mVHUxWhBJ2Gx7FStIIYxnA5VShDwPXAfWOYWHYhm/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOclK5EWe69IbSor7xfL_6qEg9BXeldDXnoNZmy_Nf8oCIG708DuH-FwjqT8R4dsKgb5UOTtuzJNAisv_gUuVS8Bk/file/index.m3u8
 #EXTINF:0,News7
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/News7_Tamil_MOB/Fallback/index.m3u8
+https://ythls-v3.onrender.com/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 #EXTINF:0,DD News
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/DD_News_MOB/Fallback/index.m3u8
-#EXTINF:0,Sansad HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722699079/ei/5_itZsatD5PFjMwP3dfvwAs/ip/120.56.1.177/id/1MTaqwcmZw0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAdZ1JdwTsxBTFoFNXKLUuGIa6POkLaOTFYF76YYQtgjIVEvP-y_bOPsTSORUSoNPrCTxM7WG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAII2WAlKbU7goiijj6UK0adlMJsFrYfhL6_5BtHG4zwiAiA82eiqz42pkN0K-sr1GMoo--e8sM59ZOoqcEuQ3OkmYQ%3D%3D/file/index.m3u8
+#EXTINF:0,Sansad Rajya Sabha
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/DD_Rajyasabha_MOB/Fallback/index.m3u8
-#EXTINF:0,Republic
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722699378/ei/EvqtZsW6NKbJs8IPxejNoQk/ip/120.56.1.177/id/wHitES3rAp8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bARf704bKs6R93S91f_BhvZgVH6aVmYcGkDPRrrF4CetYOaE8ft4Px1xAhtnjXjawXpkOAorl/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK03yBu3IBJOqKasyU_Txf4-ol6aydl9JOMjWFMW1-3dAiB-AU24V4eHUgyZJR8WQuB5yXRqS627vKhcFHhUPWWfcA%3D%3D/file/index.m3u8
+#EXTINF:0,Republic TV
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Republic_TV_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722699490/ei/gvqtZqHxK9yavcAP-dvsuQk/ip/120.56.1.177/id/v2uhs8-zKCs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAdOQUvMVd_gElOg8W5qmVn4AMxA3cAchbymZXRSh9dnyCA_XZ-5qvuHyY5Ryv3RiC-Y6-r28/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeXO-oUVpRIUeR3NP6SPAn6z0c2e3hnOCYZzNX7HU7AgCIGdaK3vkBYrXnIcC6Rn00WAWyo2Yuhf4d4uVS0ZPLO9J/file/index.m3u8
 #EXTINF:0,RT
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/RT_TV_MOB/Fallback/index.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0,SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
 http://extraott.com:80/4183813400/7514985385/187251
