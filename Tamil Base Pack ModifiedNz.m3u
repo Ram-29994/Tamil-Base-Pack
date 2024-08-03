@@ -55,7 +55,7 @@ https://jio.drmlive.au/jio/bpk-tv/Makkal_TV_MOB/Fallback/index.m3u8
 https://jio.drmlive.au/jio/bpk-tv/Sun_Life_MOB/Fallback/index.m3u8
 #EXTINF:0,Polimer news
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Polimer_News_MOB/Fallback/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722697452/ei/jPKtZtf7Eov34-EPgamy2AY/ip/120.56.1.177/id/yhZXTuTFXx0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bARyD8ekB3TKb5vCMSvGS5x1JfjMqQxqQGa6_I6ufBsfWhpGQzH3vyQAForw8bnlvTrNyU0s0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKImYqs5Hz-A7anfSrpIClkXFcQ1u83LMkFS0h8EGQgNAiAI1QYjjhlOP5R-dyTJZdCVa5uI39Rkki1_1UWLkh3dSw%3D%3D/file/index.m3u8
 #EXTINF:0,Jaya Plus
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Jaya_Plus_MOB/Fallback/index.m3u8
