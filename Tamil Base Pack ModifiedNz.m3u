@@ -7,7 +7,7 @@ http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:0,KTV HD
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/KTV_HD_MOB/Fallback/index.m3u8
+http://53374523575735656.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/735656.ts
 #EXTINF:0,JAYA TV HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
@@ -25,7 +25,7 @@ http://xtv.ooo:8080/359052742/470428329/244564
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:0,Adhitya
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Adithya_TV_MOB/Fallback/index.m3u8
+http://53374523575692420.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/692420.ts
 #EXTINF:0,Vasanth Tv
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Vasanth_TV_MOB/Fallback/index.m3u8
@@ -130,10 +130,10 @@ https://jio.drmlive.au/jio/bpk-tv/SVBC2_MOB/Fallback/index.m3u8
 https://jio.drmlive.au/jio/bpk-tv/SaiTV_MOB/Fallback/index.m3u8
 #EXTINF:0,Sri Sankara
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Sri_Sankara_MOB/Fallback/index.m3u8
+http://53374523575774869.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/774869.ts
 #EXTINF:0,Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://jio.drmlive.au/jio/bpk-tv/Sadhguru_Television_SD_MOB/Fallback/index.m3u8
-#EXTINF:0,Aastha Tamil
+#EXTINF:0,Aastha Bhajan
 #EXTGRP:Tamil Pack
-https://jio.drmlive.au/jio/bpk-tv/Aastha_Tamil_MOB/Fallback/index.m3u8
+http://53374523575626133.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/626133.ts
