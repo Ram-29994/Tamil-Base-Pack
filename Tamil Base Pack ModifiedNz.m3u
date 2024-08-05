@@ -22,7 +22,7 @@ http://xtv.ooo:8080/359052742/470428329/244522
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:0,Adhitya
 #EXTGRP:Tamil Pack
-http://53374523575692420.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/692420.ts
+http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:0,Polimer Tv
 #EXTGRP:Tamil Pack
 https://yupptvcatchupire.yuppcdn.net/polimertv/05Aug2024/600/1722843105993_4000.ts
@@ -134,18 +134,6 @@ https://livegeoroueu.akamaized.net/250723/smil:sankaratam1.smil/chunklist_b69600
 #EXTINF:0,Sadhguru Tv
 #EXTGRP:Tamil Pack
 http://103.61.73.220:8000/play/a05b
-#EXTINF:0,Captain Tv
-#EXTGRP:Tamil Pack
-http://tv.utsaviptvbd.xyz:8880/DIGI06/665586/3114
-#EXTINF:0,Vasanth TV
-#EXTGRP:Tamil Pack
-http://tv.utsaviptvbd.xyz:8880/DIGI06/665586/3167
-#EXTINF:0,Win News
-#EXTGRP:Tamil Pack
-http://sansat.net:88/02029761595924/9d089925dc60a821/100168.m3u8
-#EXTINF:0,OM TV
-#EXTGRP:Tamil Pack
-http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
 #EXTINF:0,OM TV YT
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UCW7ENO_f7AheyIL5A5Yj4rA.m3u8
