@@ -1,0 +1,6 @@
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Best Multi Audio
+#EXTGRP:Tamil Pack
+http://14.102.123.50:9080/play/a05b
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",BBC EARTH New Multi Audio
+#EXTGRP:Tamil Pack
+http://124.29.225.205:8000/play/a04a/index.m3u8
