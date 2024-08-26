@@ -7,3 +7,6 @@ http://124.29.225.205:8000/play/a04a/index.m3u8
 #EXTINF:0,Mega Tv
 #EXTGRP:Tamil Pack
 http://ott1.co:8080/live/08042023/123456789/28141.ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",KTV HD
+#EXTGRP:Tamil Pack
+http://116.202.46.40:789/KTV_TAMIL/index.m3u8
